@@ -14,6 +14,7 @@ import org.testng.annotations.Test;
 public class PatientModuleTests {
 
     private WebDriver driver;
+    //Changes
 	private String patientRegID;
 	LoginPage lPage ;
 	
