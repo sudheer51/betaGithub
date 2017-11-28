@@ -36,7 +36,7 @@ public class PatientModuleTests {
 		public void Logintoapp(String username,String password) throws IOException
 		{
 			 
-			 
+			LoginPage lPage = new LoginPage(driver);
 			
 		    hPage = lPage.login(username,password);
 			boolean result = hPage.fetchLoginMsg();
