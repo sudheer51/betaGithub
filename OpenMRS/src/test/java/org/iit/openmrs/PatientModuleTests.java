@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class PatientModuleTests {
 
     private WebDriver driver;
-    //Only in DEV1
+    //Updated again to check the conflicts
 	private String patientRegID;
 	LoginPage lPage ;
 	
