@@ -18,7 +18,7 @@ public class PatientModuleTests {
     //DEV2 branch commmit into master Updated again to check the conflicts - Second time
     //DEV2 branch commmit into master Updated again to check the conflicts - Second time
     //DEV2 branch commmit into master Updated again to check the conflicts - Second time
-    //DEV2 branch commmit into master Updated again to check the conflicts - Second time
+    //DEV2 branch commmit into master Updated again to check the conflicts - Second time   
 	private String patientRegID;
 	LoginPage lPage ;
 	
