@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import com.mmp.patient.utils.TestBase;
 
 public class HomePage extends TestBase{
-
+///new update
 	WebDriver driver ;
     By home=  By.linkText("HOME");
     By patient=  By.xpath(".//*[@id='navigation']/li[2]/a")  ;               // inkText("Patient Login");
